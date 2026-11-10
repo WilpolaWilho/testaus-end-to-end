@@ -1,3 +1,5 @@
+import { describe, it, cy } from 'local-cypress';
+
 /// <reference types="Cypress" />
 // yllä oleva rivi (mukaanlukien ///-merkit ) käynnistää IntteliSensen tälle kyseilselle tiedostolle, jonka avulla näemme funktioiden definitioinit
 
