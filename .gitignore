@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Cypress-generated artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Local environment files
+.env
+.env*
+!.env.example
+
+# Operating system files
+.DS_Store
+
+# npm logs
+npm-debug.log*
+*.log
