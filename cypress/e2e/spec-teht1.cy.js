@@ -1,5 +1,3 @@
-import { describe, it, cy } from 'local-cypress';
-
 describe('Wikipedian testaus', () => {
   it('clicking "type" shows the right headings', () => {
     cy.visit('https://fi.wikipedia.org/wiki/Wikipedia:Etusivu');
